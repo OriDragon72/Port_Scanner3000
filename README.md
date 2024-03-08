@@ -36,3 +36,4 @@ The code is also only programmed to check fo rthe most common ports {
 - 'First_Idea':[textFile]: Contains the draft of the code that I was going to create if I knew python better (my first language was C++).
 - 'V1.py':[pythonFile]: Contains the original version of the code that I made.
 - 'README':[textFile/the one which you are currently reading]: Contains the documentation of the code and how it works
+- `LICENSE`: A text file that contains the license.
